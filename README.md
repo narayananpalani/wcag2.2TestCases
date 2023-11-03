@@ -1,14 +1,16 @@
-# Course Code for [Working with Components in React 18](http://www.pluralsight.com/courses/react-18-working-components) on Pluralsight
 
-
-<br/>
-This GitHub repo includes the final code for all the modules in the course 
-
-### 8/26/2023 - Course patch update including new module 7 on React Server Components 
+# WCAG2.2 Test Cases App
 
 ## App Description
 
 Creating WCAG 2.2 Test Cases to get executed using Assistive Technologies to provide better Digital Accessibility.
+
+
+### Source: [Working with Components in React 18](http://www.pluralsight.com/courses/react-18-working-components) on Pluralsight
+
+
+ 
+
 
 ## Getting Started
 1. **Install [nodejs.org](https://nodejs.org)**.
